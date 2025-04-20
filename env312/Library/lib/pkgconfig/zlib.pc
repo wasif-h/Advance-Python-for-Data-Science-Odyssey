@@ -1,0 +1,13 @@
+prefix=W:/AI_Learning/DSKN/Advance-Python-for-Data-Science-Odyssey/env312/Library
+exec_prefix=W:/AI_Learning/DSKN/Advance-Python-for-Data-Science-Odyssey/env312/Library
+libdir=W:/AI_Learning/DSKN/Advance-Python-for-Data-Science-Odyssey/env312/Library/lib
+sharedlibdir=W:/AI_Learning/DSKN/Advance-Python-for-Data-Science-Odyssey/env312/Library/lib
+includedir=W:/AI_Learning/DSKN/Advance-Python-for-Data-Science-Odyssey/env312/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -3,3 +3,6 @@ numpy
 pandas
 matplotlib
 seaborn
+beautifulsoup4
+html5lib
+lxml
